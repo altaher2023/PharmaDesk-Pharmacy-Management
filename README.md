@@ -4,9 +4,9 @@
 
 ## Live app / demo video / GitHub
 
-- **Live app:** _Add your Netlify URL here after deployment._
+- **Live app:** https://pharmadesk-system.netlify.app/
 - **3–5 minute video:** _Add your unlisted YouTube link here after recording._
-- **Repository:** _Add your public GitHub URL here after uploading._
+- **Repository:** https://github.com/altaher2023/PharmaDesk-Pharmacy-Management
 
 ## Features and permissions
 
